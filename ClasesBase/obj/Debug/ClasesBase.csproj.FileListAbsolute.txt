@@ -1,0 +1,53 @@
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.dll
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.dll
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.pdb
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll.config
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.pdb
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.csprojResolveAssemblyReference.cache
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.dll
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.pdb
+D:\2020\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll.config
+D:\2020\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.dll
+D:\2020\lpoo1_grupo04\ClasesBase\bin\Debug\ClasesBase.pdb
+D:\2020\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.csprojAssemblyReference.cache
+D:\2020\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.csproj.CoreCompileInputs.cache
+D:\2020\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.dll
+D:\2020\lpoo1_grupo04\ClasesBase\obj\Debug\ClasesBase.pdb

@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8DB8F232-7777-481D-9996-01513A3F61CA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Vistas</RootNamespace>
+    <AssemblyName>Vistas</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmAltaPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAltaPago.Designer.cs">
+      <DependentUpon>FrmAltaPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAltaClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAltaClientes.Designer.cs">
+      <DependentUpon>FrmAltaClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAltaDestino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAltaDestino.Designer.cs">
+      <DependentUpon>FrmAltaDestino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAltaPrestamos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAltaPrestamos.Designer.cs">
+      <DependentUpon>FrmAltaPrestamos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAltaUsuario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAltaUsuario.Designer.cs">
+      <DependentUpon>FrmAltaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDashboard.Designer.cs">
+      <DependentUpon>FrmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionClientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionClientes.Designer.cs">
+      <DependentUpon>FrmGestionClientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionDestino.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionDestino.Designer.cs">
+      <DependentUpon>FrmGestionDestino.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionPago.Designer.cs">
+      <DependentUpon>FrmGestionPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionPeriodo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionPeriodo.Designer.cs">
+      <DependentUpon>FrmGestionPeriodo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionPrestamo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionPrestamo.Designer.cs">
+      <DependentUpon>FrmGestionPrestamo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionUsuarios.Designer.cs">
+      <DependentUpon>FrmGestionUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmListarPagos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmListarPagos.Designer.cs">
+      <DependentUpon>FrmListarPagos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmGestionCuotas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmGestionCuotas.Designer.cs">
+      <DependentUpon>FrmGestionCuotas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAltaPago.resx">
+      <DependentUpon>FrmAltaPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAltaClientes.resx">
+      <DependentUpon>FrmAltaClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAltaDestino.resx">
+      <DependentUpon>FrmAltaDestino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAltaPrestamos.resx">
+      <DependentUpon>FrmAltaPrestamos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAltaUsuario.resx">
+      <DependentUpon>FrmAltaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDashboard.resx">
+      <DependentUpon>FrmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionClientes.resx">
+      <DependentUpon>FrmGestionClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionDestino.resx">
+      <DependentUpon>FrmGestionDestino.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionPago.resx">
+      <DependentUpon>FrmGestionPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionPeriodo.resx">
+      <DependentUpon>FrmGestionPeriodo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionPrestamo.resx">
+      <DependentUpon>FrmGestionPrestamo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionUsuarios.resx">
+      <DependentUpon>FrmGestionUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmListarPagos.resx">
+      <DependentUpon>FrmListarPagos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmGestionCuotas.resx">
+      <DependentUpon>FrmGestionCuotas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ClasesBase\ClasesBase.csproj">
+      <Project>{A6D07A6F-9ADA-47C2-80B2-2E397F1210F5}</Project>
+      <Name>ClasesBase</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

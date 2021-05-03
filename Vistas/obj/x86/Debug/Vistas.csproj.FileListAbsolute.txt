@@ -1,0 +1,230 @@
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPago.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaClientes.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaDestino.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPeriodos.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamos.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaUsuario.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDeClientes.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDestino.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPago.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPeriodo.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPrestamo.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionUsuarios.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmLogin.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmMain.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionCuotas.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmDashboard.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.exe
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\bin\Debug\Vistas.exe
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\bin\Debug\Vistas.pdb
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.dll
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.pdb
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPago.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaClientes.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaDestino.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPeriodos.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamos.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaUsuario.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmDashboard.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDeClientes.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDestino.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPago.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPeriodo.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPrestamo.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionUsuarios.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmLogin.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmMain.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionCuotas.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Disco Externo\CODIGOS\LPOOI\lpoo\proyectRomerex\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.exe
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.pdb
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\bin\Debug\Vistas.exe
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\bin\Debug\Vistas.pdb
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.dll
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.pdb
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPago.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaClientes.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaDestino.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPeriodos.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamos.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaUsuario.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmDashboard.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDeClientes.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDestino.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPago.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPeriodo.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPrestamo.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionUsuarios.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmLogin.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmMain.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionCuotas.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\LpooGIT\ULTIMOFINAL\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\bin\Debug\Vistas.exe
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPago.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaClientes.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaDestino.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPeriodos.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamos.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaUsuario.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmDashboard.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDeClientes.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDestino.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPago.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPeriodo.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPrestamo.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionUsuarios.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmLogin.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmMain.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionCuotas.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\recien sacado del horno\backup\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmListarPagos.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPago.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaClientes.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaDestino.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamos.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaUsuario.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmDashboard.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDestino.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPago.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPeriodo.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPrestamo.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionUsuarios.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmListarPagos.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmLogin.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmMain.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionCuotas.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.exe
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.pdb
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\bin\Debug\Vistas.exe
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\bin\Debug\Vistas.pdb
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.dll
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.pdb
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPago.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaClientes.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaDestino.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamos.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaUsuario.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmDashboard.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDestino.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPago.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPeriodo.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPrestamo.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionUsuarios.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmListarPagos.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmLogin.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmMain.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionCuotas.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\bin\Debug\Vistas.exe
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPago.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaClientes.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaDestino.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPeriodos.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamos.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaUsuario.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmDashboard.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDeClientes.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDestino.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPago.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPeriodo.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPrestamo.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionUsuarios.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmListarPagos.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmLogin.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmMain.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionCuotas.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\Nueva carpeta\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\Disco Externo\CODIGOS\LPOOI\Git\Final\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionClientes.resources
+C:\Users\Sergio\Downloads\LPOOI-Parte3\Nueva carpeta\copia\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionClientes.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.exe
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.pdb
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\bin\Debug\Vistas.exe
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\bin\Debug\Vistas.pdb
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.dll
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.pdb
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csprojResolveAssemblyReference.cache
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPago.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaClientes.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaDestino.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamos.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaUsuario.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmDashboard.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionClientes.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDestino.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPago.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPeriodo.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPrestamo.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionUsuarios.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmListarPagos.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmLogin.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmMain.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionCuotas.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+C:\Users\dhal_\Documents\APU\APU2019_3RO_AÑO\LABORATORIO DE PROGRAMACION ORIENTADA OBJETO\tpfinal dos v2.0\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.Cache
+D:\2020\lpoo1_grupo04\Vistas\bin\Debug\Vistas.exe
+D:\2020\lpoo1_grupo04\Vistas\bin\Debug\Vistas.pdb
+D:\2020\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.dll
+D:\2020\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.pdb
+D:\2020\lpoo1_grupo04\Vistas\bin\Debug\ClasesBase.dll.config
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csprojAssemblyReference.cache
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPago.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaClientes.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaDestino.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaPrestamos.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmAltaUsuario.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmDashboard.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionClientes.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionDestino.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPago.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPeriodo.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionPrestamo.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionUsuarios.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmListarPagos.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmLogin.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmMain.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.FrmGestionCuotas.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csproj.GenerateResource.cache
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csproj.CoreCompileInputs.cache
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.csproj.CopyComplete
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.exe
+D:\2020\lpoo1_grupo04\Vistas\obj\x86\Debug\Vistas.pdb
