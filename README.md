@@ -1,6 +1,6 @@
 # Proyecto Final - Sistema de gestión de Prestamos
 Proyecto Desktop Implementado con .NET: C#, Window Forms y ADO.NET. 
-Para la materia Laboratorio de Programación Orientada a Objetos - UNJu, Año 2019
+Para la materia Laboratorio de Programación Orientada a Objetos 1 - UNJu, Año 2019
 
 ## Capturas de pantallas de algunas interfaces del sistema
 
